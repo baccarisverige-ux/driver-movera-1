@@ -1,5 +1,5 @@
 name: Publish isolated Driver preview
-# refresh-split-workspace
+# refresh-hard-gesture-lock
 
 on:
   push:
