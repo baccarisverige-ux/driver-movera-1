@@ -1,5 +1,5 @@
 name: Publish isolated Driver preview
-# refresh-pointer-isolation
+# refresh-split-workspace
 
 on:
   push:
