@@ -1,5 +1,5 @@
 name: Publish isolated Driver preview
-# refresh-independent-sheet
+# refresh-pointer-isolation
 
 on:
   push:
